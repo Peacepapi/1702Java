@@ -1,0 +1,7 @@
+eclipse.m2.defaultRuntime=mvn
+eclipse.m2.globalSettingsFile=C\:\\mvn\\conf\\settings.xml
+eclipse.m2.runtimes=mvn
+eclipse.m2.runtimesNodes/mvn/location=C\:\\mvn
+eclipse.m2.runtimesNodes/mvn/type=EXTERNAL
+eclipse.m2.userSettingsFile=C\:\\mvn\\conf\\settings.xml
+eclipse.preferences.version=1

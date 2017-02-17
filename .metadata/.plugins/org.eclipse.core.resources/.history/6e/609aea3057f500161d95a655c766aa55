@@ -1,0 +1,32 @@
+package com.revature.patterns;
+
+import com.revature.patterns.weapons.MachineGun;
+import com.revature.patterns.weapons.Sword;
+
+/**
+ * Makes weapons
+ * @author Patrick
+ *	
+ *	1. Complex instantiation logic
+ *	2. Abstract concrete classes away
+ *	3. Promotes loose-coupling
+ */
+public class WeaponFactory {
+
+	public static Weapon getMedievalWeapon(){
+		return new Sword(); // doesn't matter the concrete class
+	}
+	
+	public static Weapon getModernWeapon(){
+		return new MachineGun();
+	}
+	
+}
+
+
+
+
+
+
+
+

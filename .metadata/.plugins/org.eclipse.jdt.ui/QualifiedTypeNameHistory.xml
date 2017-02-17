@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.revature.patterns.weapons.MachineGun"/>
+<fullyQualifiedTypeName name="com.revature.patterns.Weapon"/>
+<fullyQualifiedTypeName name="com.revature.patterns.weapons.Longsword"/>
+<fullyQualifiedTypeName name="com.revature.patterns.WeaponFactory"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="com.revature.patterns.weapons.Excalibur"/>
+</qualifiedTypeNameHistroy>

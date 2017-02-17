@@ -1,0 +1,10 @@
+package com.revature.patterns;
+
+/**
+ * Makes weapons
+ * @author Patrick
+ *
+ */
+public class WeaponFactory {
+
+}

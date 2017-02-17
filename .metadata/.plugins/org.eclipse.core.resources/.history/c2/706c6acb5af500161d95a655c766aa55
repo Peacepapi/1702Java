@@ -1,0 +1,36 @@
+package com.revature.patterns;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import com.revature.patterns.weapons.Excalibur;
+
+public class ExcaliburTest {
+
+	final Excalibur excalibur; 
+	Excalibur excalibur2;
+	
+	@Test
+	public void test() {
+		
+		
+		// anonymous class
+		new Thread(new Runnable(){
+
+			public void run() {
+				excalibur = Excalibur.getExcalibur();
+			}
+			
+		}).start();
+		
+		assertEquals(excalibur, excalibur2);
+	}
+
+}
+
+
+
+
+
+

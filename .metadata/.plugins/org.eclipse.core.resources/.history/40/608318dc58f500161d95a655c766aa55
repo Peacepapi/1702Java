@@ -1,0 +1,11 @@
+package com.revature.patterns.weapons;
+
+import com.revature.patterns.Weapon;
+
+public class Excalibur implements Weapon {
+
+	public void attack() {
+		System.out.println("Excalibur!!!!");
+	}
+
+}

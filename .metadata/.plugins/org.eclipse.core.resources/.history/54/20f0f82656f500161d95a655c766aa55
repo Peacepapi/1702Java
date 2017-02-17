@@ -1,0 +1,12 @@
+package com.revature.patterns;
+
+/**
+ * Makes weapons
+ * @author Patrick
+ *
+ *	1. Complex instantiation logic
+ *	2. Abstract concrete classes away
+ */
+public class WeaponFactory {
+
+}
