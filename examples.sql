@@ -231,3 +231,25 @@ BEGIN
     x := x + 1;
   END LOOP;
 END;
+
+------ INSTEAD OF ----- 
+CREATE OR REPLACE VIEW INVOICE_VIEW AS
+  select customerid, invoiceid, invoicedate, total
+  from invoice;
+/
+CREATE OR REPLACE TRIGGER limit_void
+INSTEAD OF DELETE ON INVOICE_VIEW
+FOR EACH ROW
+DECLARE
+  too_expensive_exception EXCEPTION;
+BEGIN
+  IF (:OLD.TOTAL > 10) THEN
+    DBMS_OUTPUT.PUT_LINE('CANNOT DELETE ORDER > $10');
+    RAISE too_expensive_exception;
+  END IF; 
+END;
+/
+SELECT * FROM INVOICE_VIEW WHERE INVOICEID = 194;
+/
+DELETE FROM INVOICE_VIEW WHERE INVOICEID = 194;
+/
