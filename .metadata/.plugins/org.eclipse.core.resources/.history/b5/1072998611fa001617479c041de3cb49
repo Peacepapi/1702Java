@@ -22,7 +22,7 @@ public class SimpleTransactionTest {
 					prepareStatement("INSERT INTO ARTIST(NAME)"
 							+ " VALUES('Lady Gaga')");
 			stmt1.executeUpdate(); 
-			//if(true) throw new RuntimeException();
+			if(true) throw new RuntimeException();
 			stmt2.executeUpdate();
 			conn.commit(); // everything was successful
 		} catch (Exception e) {

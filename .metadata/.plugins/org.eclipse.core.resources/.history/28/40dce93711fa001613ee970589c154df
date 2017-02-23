@@ -7,7 +7,7 @@ public class SimpleFindOneTest {
 	@Test
 	public void test(){
 		try {
-			Artist result = new ArtistDAO(ConnectionFactory.getConnection()).findOne(278);
+			Artist result = new ArtistDAO().findOne(278);
 			System.out.println(result);
 		} catch (Exception e) {
 			e.printStackTrace();

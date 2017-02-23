@@ -11,7 +11,7 @@ public class SimpleGetAllTest {
 	public void test(){
 		List<Artist> all;
 		try {
-			all = new ArtistDAO(ConnectionFactory.getConnection()).getAll();
+			all = new ArtistDAO().getAll();
 			for(Artist a : all) System.out.println(a);
 		} catch (Exception e) {
 			e.printStackTrace();

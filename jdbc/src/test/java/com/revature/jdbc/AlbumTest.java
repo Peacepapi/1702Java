@@ -9,7 +9,7 @@ public class AlbumTest {
 	public void test(){
 		Album a;
 		try {
-			a = new AlbumDAO().findOne(55);
+			a = new AlbumDAO(ConnectionFactory.getConnection()).findOne(55);
 			System.out.println(a.getTitle() + " by " + 
 								a.getArtist().getName());
 		} catch (Exception e) {

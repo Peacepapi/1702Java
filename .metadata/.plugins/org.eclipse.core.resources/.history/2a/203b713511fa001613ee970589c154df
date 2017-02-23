@@ -9,7 +9,7 @@ public class ArtistTest {
 	public void test(){
 		try{
 			Artist artist = new Artist("Kayne West");
-			new ArtistDAO(ConnectionFactory.getConnection()).insert(artist);
+			new ArtistDAO().insert(artist);
 			System.out.println("Database generated key: " + 
 					artist.getArtistId());
 		}catch(Exception e){

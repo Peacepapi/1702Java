@@ -10,7 +10,7 @@ public class SimpleInsertTest {
 		try {
 			// idc how.. just persist my object into 
 				// whatever datastore you got going on over there
-			new ArtistDAO(ConnectionFactory.getConnection()).save(artist);
+			new ArtistDAO().save(artist);
 		} catch (Exception e) {
 			e.printStackTrace();
 			org.junit.Assert.fail();
