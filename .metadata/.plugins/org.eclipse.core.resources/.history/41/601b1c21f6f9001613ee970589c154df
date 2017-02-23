@@ -1,0 +1,13 @@
+package com.revature.jdbc;
+
+import org.junit.Test;
+
+public class ArtistTest {
+
+	@Test
+	public void test(){
+		Artist artist = new Artist("Beyonce");
+		
+	}
+	
+}

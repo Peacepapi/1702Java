@@ -1,0 +1,29 @@
+package com.revature.jdbc;
+
+import java.util.List;
+
+public class DataFacade implements IDataFacade{
+
+	public Artist findArtist(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public List<Artist> getAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Album insert(Album album) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Album findAlbum(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+	
+}

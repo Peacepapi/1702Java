@@ -1,0 +1,10 @@
+package com.revature.jdbc;
+
+public class SimpleInsertTest {
+
+	@Test
+	public void insert(){
+		
+	}
+	
+}

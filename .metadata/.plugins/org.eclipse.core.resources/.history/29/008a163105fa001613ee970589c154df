@@ -1,0 +1,45 @@
+package com.revature.jdbc;
+
+import java.sql.Connection;
+import java.util.List;
+
+/**
+ * Hides complexity of data tier from the business tier
+ *
+ */
+public class DataFacade{
+	
+	private AlbumDAO albumDAO;
+	private ArtistDAO artistDAO;
+	private Connection conn;
+	
+	public DataFacade(){
+		try {
+			conn = ConnectionFactory.getConnection();
+			albumDAO = new AlbumDAO(conn);
+			artistDAO = new ArtistDAO(conn);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public Artist findArtist(int id) throws Exception {
+		return artistDAO.findOne(id);
+	}
+
+	public List<Artist> getAll() throws Exception {
+		return artistDAO.getAll();
+	}
+
+	public Album insert(Album album) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Album findAlbum(int id) throws Exception {
+		return albumDAO.findOne(id);
+	}
+
+
+	
+}

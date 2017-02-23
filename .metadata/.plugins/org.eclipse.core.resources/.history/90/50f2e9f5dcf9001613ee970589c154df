@@ -1,0 +1,14 @@
+package com.revature.jdbc;
+
+/**
+ * Data Access Object - design pattern
+ * 	--isolate the database access logic in one place
+ * 	--cohesion.. classes have only one role
+ * 
+ * 1. CRUD methods for your domain object
+ * 2. Outside of DAO is concerned with only domain objects.. not SQL
+ *
+ */
+public class ArtistDAO {
+
+}

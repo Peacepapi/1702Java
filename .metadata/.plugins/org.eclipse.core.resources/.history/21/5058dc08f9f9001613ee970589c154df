@@ -1,0 +1,23 @@
+package com.revature.jdbc;
+
+import java.sql.CallableStatement;
+import java.sql.Connection;
+
+public class CustomerDAO {
+
+	public String getFullname(int id) throws Exception{
+		String fullname;
+		String sql = "CALL FULLNAME(?,?)";
+		Connection conn = ConnectionFactory.getConnection();
+		CallableStatement stmt = conn.prepareCall(sql);
+	}
+	
+}
+
+
+
+
+
+
+
+

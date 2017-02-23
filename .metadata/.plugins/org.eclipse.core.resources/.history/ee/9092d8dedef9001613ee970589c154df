@@ -1,0 +1,38 @@
+package com.revature.jdbc;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+/**
+ * Data Access Object - design pattern
+ * 	--isolate the database access logic in one place
+ * 	--cohesion.. classes have only one role
+ * 
+ * 1. CRUD methods for your domain object
+ * 2. Outside of DAO is concerned with only domain objects.. not SQL!
+ *
+ */
+public class ArtistDAO {
+
+	public void save(Artist artist) throws Exception{ //would handle SQLExceptions here
+		String sql = "INSERT INTO ARTIST(ARTISTID, NAME) VALUES(?, ?)";
+		Connection conn = ConnectionFactory.getConnection();
+		// pre-compile the SQL statement in Java
+		PreparedStatement stmt = conn.prepareStatement(sql);
+		// bind values safely to the placeholder ??s
+		stmt.setString(2, artist.getName());
+		stmt.setInt(1, artist.getArtistId());
+		//INSERT INTO ARTIST(ARTISTID, NAME) VALUES(5, 'Dan')
+		
+	}
+	
+}
+
+
+
+
+
+
+
+
+

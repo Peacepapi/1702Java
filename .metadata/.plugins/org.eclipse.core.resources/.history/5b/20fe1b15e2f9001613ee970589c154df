@@ -1,0 +1,21 @@
+package com.revature.jdbc;
+
+import org.junit.Test;
+
+public class SimpleFindOneTest {
+
+	@Test
+	public void test(){
+		try {
+			Artist result = new ArtistDAO().findOne(278);
+			// compare to what I expect
+			Artist expected = new Artist(278, "The Dan Band");
+			org.junit.Assert.assertEquals(expected, result);
+		} catch (Exception e) {
+			e.printStackTrace();
+			org.junit.Assert.fail();
+		}
+		
+	}
+	
+}
