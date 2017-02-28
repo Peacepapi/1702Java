@@ -8,11 +8,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 public class BananaServlet extends HttpServlet{
-	
-	@Override
-	public void init() throws ServletException {
-		System.out.println("INIT for BananaServlet");
-	}
 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

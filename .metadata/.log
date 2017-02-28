@@ -6177,3 +6177,311 @@ org.eclipse.core.runtime.CoreException: Illegal install location C:\Users\Owner\
 
 !ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:36:30.492
 !MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:17.635
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:17.638
+!MESSAGE Found new module:[servlet]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:17.639
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:17.707
+!MESSAGE Module Status: 
+-servlet (add) (deploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:17.822
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:18.177
+!MESSAGE Waiting on ProgressObject:@768932579
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:18.394
+!MESSAGE ProgressObject completed :@768932579
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:18.397
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:18.397
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:18.687
+!MESSAGE Waiting on ProgressObject:@246960192
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:18.914
+!MESSAGE ProgressObject completed :@246960192
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:18.914
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:18.915
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:18.916
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:28.578
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:28.581
+!MESSAGE Total deleted modules: 1
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:28.582
+!MESSAGE Found deleted module [servlet]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:28.592
+!MESSAGE Module Status: 
+-servlet (delete) (undeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:28.614
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=myserver, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:28.932
+!MESSAGE Waiting on ProgressObject:@1109165106
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:29.043
+!MESSAGE ProgressObject completed :@1109165106
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:29.047
+!MESSAGE Module _auto_generated_ear_ was undeployed sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:29.106
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:37.036
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:37.039
+!MESSAGE Found new module:[servlet]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:37.040
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:37.081
+!MESSAGE Module Status: 
+-servlet (add) (deploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:37.182
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:37.513
+!MESSAGE Waiting on ProgressObject:@1925729467
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:37.726
+!MESSAGE ProgressObject completed :@1925729467
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:37.728
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:37.729
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:38.095
+!MESSAGE Waiting on ProgressObject:@1895643471
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:38.208
+!MESSAGE ProgressObject completed :@1895643471
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:38.210
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:38.211
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:42:38.212
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.180
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.183
+!MESSAGE Module changed:[servlet]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.185
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.237
+!MESSAGE Module changed:[servlet]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.238
+!MESSAGE Module Status: 
+-servlet (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.263
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=myserver, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.596
+!MESSAGE Waiting on ProgressObject:@890947327
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.703
+!MESSAGE ProgressObject completed :@890947327
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.706
+!MESSAGE Module _auto_generated_ear_ was undeployed sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:28.806
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:29.199
+!MESSAGE Waiting on ProgressObject:@105237672
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:29.480
+!MESSAGE ProgressObject completed :@105237672
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:29.482
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:29.483
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:29.771
+!MESSAGE Waiting on ProgressObject:@964401516
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:29.883
+!MESSAGE ProgressObject completed :@964401516
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:29.884
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:29.885
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:29.886
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:55.258
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:55.261
+!MESSAGE Module changed:[servlet]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:55.263
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:55.308
+!MESSAGE Module changed:[servlet]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:55.309
+!MESSAGE Module Status: 
+-servlet (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:55.331
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=myserver, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:55.662
+!MESSAGE Waiting on ProgressObject:@1664167863
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:55.774
+!MESSAGE ProgressObject completed :@1664167863
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:55.779
+!MESSAGE Module _auto_generated_ear_ was undeployed sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:56.067
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:56.444
+!MESSAGE Waiting on ProgressObject:@354678873
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:56.660
+!MESSAGE ProgressObject completed :@354678873
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:56.661
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:56.662
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:56.948
+!MESSAGE Waiting on ProgressObject:@537032703
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:57.066
+!MESSAGE ProgressObject completed :@537032703
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:57.067
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:57.068
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:43:57.069
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:05.490
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:05.492
+!MESSAGE Total deleted modules: 1
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:05.493
+!MESSAGE Found deleted module [servlet]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:05.505
+!MESSAGE Module Status: 
+-servlet (delete) (undeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:05.526
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=myserver, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:05.898
+!MESSAGE Waiting on ProgressObject:@611636002
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:06.006
+!MESSAGE ProgressObject completed :@611636002
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:06.008
+!MESSAGE Module _auto_generated_ear_ was undeployed sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:06.054
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:12.561
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:12.564
+!MESSAGE Found new module:[servlet]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:12.566
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:12.616
+!MESSAGE Module Status: 
+-servlet (add) (deploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:12.721
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:13.055
+!MESSAGE Waiting on ProgressObject:@1110679169
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:13.384
+!MESSAGE ProgressObject completed :@1110679169
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:13.386
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:13.387
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:13.730
+!MESSAGE Waiting on ProgressObject:@1963426006
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:13.843
+!MESSAGE ProgressObject completed :@1963426006
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:13.844
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:13.844
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-02-28 14:44:13.845
+!MESSAGE Publishing finished.
