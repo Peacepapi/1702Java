@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>US Government 101</title>
+	</head>
+	<body style="background-color: grey">
+		<h1>Branches of US Government</h1>
+		<h2 style="color: red">Legislative</h2>
+			<p>Congress and House of Reps</p>
+		<h2 style="color: white">Executive</h2>
+			<p>White House</p>
+		<h2 style="color: blue">Judicial</h2>
+			<p>Supreme Court</p>
+	</body>
+</html>

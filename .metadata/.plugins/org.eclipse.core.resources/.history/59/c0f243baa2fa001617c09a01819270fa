@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Slicing the DOM</title>
+<style type="text/css">
+#a{
+	background-color: red;
+	color: white;
+}
+#b{
+	background-color: blue;
+}
+</style>
+</head>
+<body>
+
+<div id="a">Content
+	<p>more content...</p>
+</div>
+<div id="b">Advertisements</div>
+
+</body>
+</html>

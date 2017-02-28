@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Cast a ballot</title>
+</head>
+<body>
+
+<form action="#">
+	<label>Name</label> <input type="text" name="voterName"> <br />
+		<label>Donald Trump</label>
+			<input type="radio" name="vote" value="R">		<br />
+		<label>Hillary Clinton</label>
+			<input type="radio" name="vote" value="D">		<br />
+			
+		
+		<input type="submit" value="VOTE">
+</form>
+
+</body>
+</html>

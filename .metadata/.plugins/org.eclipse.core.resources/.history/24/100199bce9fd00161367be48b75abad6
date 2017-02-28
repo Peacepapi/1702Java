@@ -1,0 +1,42 @@
+package servlet;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Handle HTTP requests and generates responses
+ *
+ */
+public class HelloServlet extends HttpServlet{
+
+	@Override
+	protected void doPost(HttpServletRequest req,
+			HttpServletResponse resp) 
+					throws ServletException, IOException {
+		
+		String user = req.getParameter("username");
+
+		// log username on server-side
+		System.out.println("User submitted: " + user);
+		
+		if(user.equals("Dan Pickles")){
+			resp.sendRedirect("https://www.google.com/#q=dan+pickles&*");
+		}
+		// write HTML back to the user
+		PrintWriter out = resp.getWriter();
+		out.print("<html><body>"
+				+ "<h1 style='color: green'>Hello, " + user 
+				+ "</h1></body></html>");
+		// weblogic grabs HttpServletResponse and sends it back
+	}
+	
+}
+
+
+
+

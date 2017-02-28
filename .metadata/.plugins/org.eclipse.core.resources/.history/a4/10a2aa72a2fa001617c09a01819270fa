@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Slicing the DOM</title>
+</head>
+<body>
+
+<div>Content</div>
+<div>Advertisements</div>
+
+</body>
+</html>
