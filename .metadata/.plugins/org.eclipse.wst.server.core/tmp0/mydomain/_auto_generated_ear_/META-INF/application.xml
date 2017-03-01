@@ -8,8 +8,8 @@
 </module>
 <module>
    <web>
-       <web-uri>jsp.war</web-uri>
-       <context-root>jsp</context-root>
+       <web-uri>fc.war</web-uri>
+       <context-root>fc</context-root>
    </web>
 </module>
 
