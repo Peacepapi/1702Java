@@ -47,8 +47,8 @@ public class HelloServlet extends HttpServlet{
 			HttpSession session = req.getSession(); 
 			session.setAttribute("sessvar", "SESSION-SCOPED");
 			
-			req.getRequestDispatcher("banana").forward(req, resp);
-			//resp.sendRedirect("banana");
+			//req.getRequestDispatcher("banana").forward(req, resp);
+			resp.sendRedirect("banana");
 		}
 		// write HTML back to the user
 		PrintWriter out = resp.getWriter();

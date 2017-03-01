@@ -1,3 +1,3 @@
-C\:/Users/Owner/1702Java/servlet/WebContent = servlet.war
-C\:/Users/Owner/1702Java/.metadata/.plugins/org.eclipse.core.resources/servlet/build/weboutput = servlet.war
-C\:/Users/Owner/1702Java/servlet/build/classes = servlet.war/WEB-INF/classes
+C\:/Users/Owner/1702Java/jsp/WebContent = jsp.war
+C\:/Users/Owner/1702Java/.metadata/.plugins/org.eclipse.core.resources/jsp/build/weboutput = jsp.war
+C\:/Users/Owner/1702Java/jsp/build/classes = jsp.war/WEB-INF/classes

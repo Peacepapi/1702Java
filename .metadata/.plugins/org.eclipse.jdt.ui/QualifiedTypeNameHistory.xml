@@ -6,4 +6,5 @@
 <fullyQualifiedTypeName name="com.revature.patterns.WeaponFactory"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="com.revature.patterns.weapons.Excalibur"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
 </qualifiedTypeNameHistroy>

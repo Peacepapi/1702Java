@@ -1,0 +1,31 @@
+package jsp;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.Date;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class IndexServlet extends HttpServlet {
+
+	private int i = 0;
+	private String var = "";
+	
+	public void jspInit(){
+		System.out.print("Initializing index.jsp...");
+	}
+	
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		PrintWriter out = resp.getWriter();
+		out.print("Numbers: ");
+		for(;i<10;i++){
+			out.print(i);
+		}
+		out.println("Today's date is " + new Date());
+	}
+	
+}

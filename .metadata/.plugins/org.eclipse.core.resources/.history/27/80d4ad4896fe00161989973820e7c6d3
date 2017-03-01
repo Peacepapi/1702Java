@@ -1,0 +1,38 @@
+package artist;
+
+import java.io.IOException;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+// handles "save.do"
+public class AddArtistServlet extends HttpServlet{
+
+	@Override
+	protected void doPost(HttpServletRequest req,
+			HttpServletResponse resp) 
+					throws ServletException, IOException {
+		// call middle tier / business tier
+		// simplicity.. write jdbc code
+		try {
+			Class.forName("oracle.jdbc.OracleDriver");
+			DriverManager.getConnection(
+					"jdbc:oracle:thin:@localhost:1521:xe",
+					"chinook", "p4ssw0rd");
+		} catch (ClassNotFoundException | SQLException e) {
+			e.printStackTrace();
+		}
+	}
+	
+}
+
+
+
+
+
+
+

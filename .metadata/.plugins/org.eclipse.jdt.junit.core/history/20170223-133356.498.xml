@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="ArtistTest" project="jdbc" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.revature.jdbc.ArtistTest" time="1.091">
-    <testcase name="test" classname="com.revature.jdbc.ArtistTest" time="1.091"/>
-  </testsuite>
-</testrun>

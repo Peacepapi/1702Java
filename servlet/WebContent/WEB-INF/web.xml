@@ -23,8 +23,6 @@
 		<url-pattern>helloworld.do</url-pattern>
 	</servlet-mapping>
 
-
-
 	<!-- used in requestdispatcher forward example -->
 	<servlet>
 		<servlet-name>bananana</servlet-name>
@@ -36,12 +34,6 @@
 		<servlet-name>bananana</servlet-name>
 		<url-pattern>banana</url-pattern>
 	</servlet-mapping>
-
-
-
-
-
-
 
 </web-app>
 
