@@ -10,6 +10,19 @@ import javax.servlet.http.HttpServletResponse;
 
 public class LoginServlet extends HttpServlet{
 	
+	@Override
+	public void init() throws ServletException {
+		String file = this.getServletConfig()
+				.getInitParameter("configLocation");
+		System.out.println("Servlet Reading config file @ " 
+				+ file + " to initialize servlet");
+		
+		String global = this.getServletContext()
+				.getInitParameter("globalConfig");
+		System.out.println("Servlet reading globalConfig config file @ " 
+				+ global + " to initialize servlet");
+	}
+	
 	// http://localhost:7001/state/login.do
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
@@ -48,7 +61,8 @@ public class LoginServlet extends HttpServlet{
 		
 		// send to another page
 		//resp.sendRedirect("/secure/home.jsp"); removes context path
-		resp.sendRedirect("secure/home.jsp"); // TODO remove forward slash
+		resp.sendRedirect("secure/home.jsp"); 
+			// TODO remove forward slash
 	}
 	
 }

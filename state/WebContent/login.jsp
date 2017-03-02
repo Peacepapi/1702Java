@@ -8,6 +8,7 @@
 <title>Login</title>
 </head>
 <body>
+<%@ include file="nav.jsp" %>
 <form action="login.do" method="post">
 	First Name: <input type="text" name="f_name" /> <br/>
 	<c:choose>

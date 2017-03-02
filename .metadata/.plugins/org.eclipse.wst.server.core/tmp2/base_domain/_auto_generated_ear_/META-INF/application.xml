@@ -8,8 +8,8 @@
 </module>
 <module>
    <web>
-       <web-uri>state.war</web-uri>
-       <context-root>state</context-root>
+       <web-uri>errors.war</web-uri>
+       <context-root>errors</context-root>
    </web>
 </module>
 

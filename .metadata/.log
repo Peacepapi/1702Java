@@ -1327,3 +1327,1107 @@ Java Model Exception: Java Model Status [Unknown javadoc format for SysOREntry [
 
 !ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 11:42:23.582
 !MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:45.380
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:45.381
+!MESSAGE Module changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:45.383
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:45.461
+!MESSAGE Module changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:45.462
+!MESSAGE Module Status: -state (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:45.564
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:47.743
+!MESSAGE Waiting on ProgressObject:@606895517
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:48.316
+!MESSAGE ProgressObject completed :@606895517
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:48.318
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:48.439
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:51.486
+!MESSAGE Waiting on ProgressObject:@867544510
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:52.331
+!MESSAGE ProgressObject completed :@867544510
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:52.333
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:52.334
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:53.728
+!MESSAGE Waiting on ProgressObject:@1085952691
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:53.956
+!MESSAGE ProgressObject completed :@1085952691
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:53.958
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:53.958
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:07:53.959
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:44.077
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:44.079
+!MESSAGE Module not changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:44.081
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:44.166
+!MESSAGE Module Status: -state
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:44.205
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:45.519
+!MESSAGE Waiting on ProgressObject:@893379446
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:45.740
+!MESSAGE ProgressObject completed :@893379446
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:45.742
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:45.867
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:47.274
+!MESSAGE Waiting on ProgressObject:@1660502297
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:47.636
+!MESSAGE ProgressObject completed :@1660502297
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:47.639
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:47.640
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:48.987
+!MESSAGE Waiting on ProgressObject:@343651105
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:49.217
+!MESSAGE ProgressObject completed :@343651105
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:49.218
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:49.219
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:08:49.220
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:41.779
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:41.786
+!MESSAGE Module not changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:41.787
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:41.864
+!MESSAGE Module Status: -state
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:41.902
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:43.240
+!MESSAGE Waiting on ProgressObject:@1285077674
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:43.519
+!MESSAGE ProgressObject completed :@1285077674
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:43.522
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:43.644
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:45.158
+!MESSAGE Waiting on ProgressObject:@1883845091
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:45.854
+!MESSAGE ProgressObject completed :@1883845091
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:45.857
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:45.858
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:47.352
+!MESSAGE Waiting on ProgressObject:@1824295514
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:47.586
+!MESSAGE ProgressObject completed :@1824295514
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:47.587
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:47.587
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:09:47.588
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.ui 4 4 2017-03-02 13:11:35.806
+!MESSAGE Unable to create part
+!SUBENTRY 1 org.eclipse.ui 4 0 2017-03-02 13:11:35.806
+!MESSAGE Editor could not be open on home.jsp
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:26.039
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:26.043
+!MESSAGE Module not changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:26.045
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:26.114
+!MESSAGE Module Status: -state
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:26.173
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:27.907
+!MESSAGE Waiting on ProgressObject:@198111969
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:28.127
+!MESSAGE ProgressObject completed :@198111969
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:28.129
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:28.230
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:29.700
+!MESSAGE Waiting on ProgressObject:@287910481
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:30.167
+!MESSAGE ProgressObject completed :@287910481
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:30.170
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:30.171
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:31.699
+!MESSAGE Waiting on ProgressObject:@1671526688
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:31.729
+!MESSAGE ProgressObject completed :@1671526688
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:31.730
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:31.731
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:17:31.733
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-02 13:22:46.458
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for ServletException {key=Ljavax/servlet/ServletException;} [in ServletException.class [in javax.servlet [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:999)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2017-03-02 13:22:46.458
+!MESSAGE Unknown javadoc format for ServletException {key=Ljavax/servlet/ServletException;} [in ServletException.class [in javax.servlet [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:51.022
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:51.023
+!MESSAGE Module changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:51.025
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:51.120
+!MESSAGE Module changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:51.121
+!MESSAGE Module Status: -state (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:51.161
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:52.737
+!MESSAGE Waiting on ProgressObject:@250936023
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:53.056
+!MESSAGE ProgressObject completed :@250936023
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:53.058
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:53.302
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:54.691
+!MESSAGE Waiting on ProgressObject:@710364518
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:55.262
+!MESSAGE ProgressObject completed :@710364518
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:55.265
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:55.266
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:56.508
+!MESSAGE Waiting on ProgressObject:@1909817209
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:56.821
+!MESSAGE ProgressObject completed :@1909817209
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:56.822
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:56.823
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:24:56.824
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:22.475
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:22.477
+!MESSAGE Module changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:22.479
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:22.584
+!MESSAGE Module changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:22.584
+!MESSAGE Module Status: -state (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:22.632
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:24.002
+!MESSAGE Waiting on ProgressObject:@907847451
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:24.258
+!MESSAGE ProgressObject completed :@907847451
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:24.261
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:24.393
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:25.880
+!MESSAGE Waiting on ProgressObject:@623311514
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:26.239
+!MESSAGE ProgressObject completed :@623311514
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:26.241
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:26.242
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:27.552
+!MESSAGE Waiting on ProgressObject:@1894068282
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:27.778
+!MESSAGE ProgressObject completed :@1894068282
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:27.779
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:27.780
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:29:27.781
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:46.489
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:46.490
+!MESSAGE Module changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:46.492
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:46.598
+!MESSAGE Module changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:46.598
+!MESSAGE Module Status: -state (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:46.651
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:47.890
+!MESSAGE Waiting on ProgressObject:@146318038
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:48.209
+!MESSAGE ProgressObject completed :@146318038
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:48.212
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:48.300
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:49.704
+!MESSAGE Waiting on ProgressObject:@1706162396
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:50.143
+!MESSAGE ProgressObject completed :@1706162396
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:50.148
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:50.148
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:51.474
+!MESSAGE Waiting on ProgressObject:@1107617705
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:51.701
+!MESSAGE ProgressObject completed :@1107617705
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:51.702
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:51.702
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 13:30:51.703
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.jst.j2ee 4 0 2017-03-02 13:42:48.567
+!MESSAGE No IModelProvider exists for project P/state of version: null
+!STACK 0
+java.lang.NullPointerException: No IModelProvider exists for project P/state of version: null
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.getModelProvider(ModelProviderManager.java:101)
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.getModelProvider(ModelProviderManager.java:281)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider.getCachedContentProvider(JEE5ContentProvider.java:98)
+	at org.eclipse.jst.jee.ui.internal.navigator.Web25ContentProvider.getChildren(Web25ContentProvider.java:35)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.getChildren(SafeDelegateTreeContentProvider.java:95)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider$1.run(NavigatorContentServiceContentProvider.java:157)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.internalGetChildren(NavigatorContentServiceContentProvider.java:143)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.getChildren(NavigatorContentServiceContentProvider.java:122)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider$1.run(JEE5ContentProvider.java:142)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:125)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:99)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:307)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:121)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2235)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.jst.jee.model.internal.common.AbstractMergedModelProvider.loadModel(AbstractMergedModelProvider.java:249)
+	at org.eclipse.jst.jee.model.internal.common.AbstractMergedModelProvider.getMergedModel(AbstractMergedModelProvider.java:219)
+	at org.eclipse.jst.jee.model.internal.common.AbstractMergedModelProvider.getModelObject(AbstractMergedModelProvider.java:139)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider.getCachedContentProvider(JEE5ContentProvider.java:98)
+	at org.eclipse.jst.jee.ui.internal.navigator.Web25ContentProvider.getChildren(Web25ContentProvider.java:35)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.getChildren(SafeDelegateTreeContentProvider.java:95)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider$1.run(NavigatorContentServiceContentProvider.java:157)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.internalGetChildren(NavigatorContentServiceContentProvider.java:143)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.getChildren(NavigatorContentServiceContentProvider.java:122)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider$1.run(JEE5ContentProvider.java:142)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.ui.navigator 4 2 2017-03-02 13:42:48.605
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.navigator".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider.getCachedContentProvider(JEE5ContentProvider.java:98)
+	at org.eclipse.jst.jee.ui.internal.navigator.Web25ContentProvider.getChildren(Web25ContentProvider.java:35)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.getChildren(SafeDelegateTreeContentProvider.java:95)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider$1.run(NavigatorContentServiceContentProvider.java:157)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.internalGetChildren(NavigatorContentServiceContentProvider.java:143)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.getChildren(NavigatorContentServiceContentProvider.java:122)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider$1.run(JEE5ContentProvider.java:142)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:125)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:99)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:307)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:121)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2235)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.jst.jee.model.internal.common.AbstractMergedModelProvider.loadModel(AbstractMergedModelProvider.java:249)
+	at org.eclipse.jst.jee.model.internal.common.AbstractMergedModelProvider.getMergedModel(AbstractMergedModelProvider.java:219)
+	at org.eclipse.jst.jee.model.internal.common.AbstractMergedModelProvider.getModelObject(AbstractMergedModelProvider.java:139)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider.getCachedContentProvider(JEE5ContentProvider.java:98)
+	at org.eclipse.jst.jee.ui.internal.navigator.Web25ContentProvider.getChildren(Web25ContentProvider.java:35)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.getChildren(SafeDelegateTreeContentProvider.java:95)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider$1.run(NavigatorContentServiceContentProvider.java:157)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.internalGetChildren(NavigatorContentServiceContentProvider.java:143)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.getChildren(NavigatorContentServiceContentProvider.java:122)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider$1.run(JEE5ContentProvider.java:142)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.ui.navigator 4 0 2017-03-02 13:42:48.640
+!MESSAGE An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/state
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider.getCachedContentProvider(JEE5ContentProvider.java:98)
+	at org.eclipse.jst.jee.ui.internal.navigator.Web25ContentProvider.getChildren(Web25ContentProvider.java:35)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.getChildren(SafeDelegateTreeContentProvider.java:95)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider$1.run(NavigatorContentServiceContentProvider.java:157)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.internalGetChildren(NavigatorContentServiceContentProvider.java:143)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.getChildren(NavigatorContentServiceContentProvider.java:122)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider$1.run(JEE5ContentProvider.java:142)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:125)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:99)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:307)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:121)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2235)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.jst.jee.model.internal.common.AbstractMergedModelProvider.loadModel(AbstractMergedModelProvider.java:249)
+	at org.eclipse.jst.jee.model.internal.common.AbstractMergedModelProvider.getMergedModel(AbstractMergedModelProvider.java:219)
+	at org.eclipse.jst.jee.model.internal.common.AbstractMergedModelProvider.getModelObject(AbstractMergedModelProvider.java:139)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider.getCachedContentProvider(JEE5ContentProvider.java:98)
+	at org.eclipse.jst.jee.ui.internal.navigator.Web25ContentProvider.getChildren(Web25ContentProvider.java:35)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.getChildren(SafeDelegateTreeContentProvider.java:95)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider$1.run(NavigatorContentServiceContentProvider.java:157)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.internalGetChildren(NavigatorContentServiceContentProvider.java:143)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.getChildren(NavigatorContentServiceContentProvider.java:122)
+	at org.eclipse.jst.jee.ui.internal.navigator.JEE5ContentProvider$1.run(JEE5ContentProvider.java:142)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:31.083
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:31.084
+!MESSAGE Total deleted modules: 1
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:31.085
+!MESSAGE Found deleted module [state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:31.106
+!MESSAGE Module changed:[state]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:31.107
+!MESSAGE Module Status: -state (delete) (undeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:31.162
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:33.002
+!MESSAGE Waiting on ProgressObject:@651151662
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:33.236
+!MESSAGE ProgressObject completed :@651151662
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:33.238
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:29:33.513
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-02 14:34:15.989
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for HttpServlet [in HttpServlet.class [in javax.servlet.http [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:999)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2017-03-02 14:34:15.990
+!MESSAGE Unknown javadoc format for HttpServlet [in HttpServlet.class [in javax.servlet.http [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-02 14:34:49.107
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for re [in re.class [in com.rsa.cryptoj.c [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\oracle.rsa\cryptoj.jar]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:999)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2017-03-02 14:34:49.107
+!MESSAGE Unknown javadoc format for re [in re.class [in com.rsa.cryptoj.c [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\oracle.rsa\cryptoj.jar]]]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-02 14:34:49.452
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for r [in r.class [in com.rsa.crypto.ncm.key [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\oracle.rsa\cryptoj.jar]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:999)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2017-03-02 14:34:49.452
+!MESSAGE Unknown javadoc format for r [in r.class [in com.rsa.crypto.ncm.key [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\oracle.rsa\cryptoj.jar]]]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-02 14:36:30.034
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for HttpServletResponse [in HttpServletResponse.class [in javax.servlet.http [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:999)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2017-03-02 14:36:30.034
+!MESSAGE Unknown javadoc format for HttpServletResponse [in HttpServletResponse.class [in javax.servlet.http [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:39:59.941
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:39:59.942
+!MESSAGE Found new module:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:39:59.944
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:00.147
+!MESSAGE Module Status: -errors (add) (deploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:00.366
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:02.347
+!MESSAGE Waiting on ProgressObject:@398623740
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:02.699
+!MESSAGE ProgressObject completed :@398623740
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:02.701
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:02.702
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:05.446
+!MESSAGE Waiting on ProgressObject:@469799411
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:05.721
+!MESSAGE ProgressObject completed :@469799411
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:05.722
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:05.722
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:05.723
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:27.547
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:27.548
+!MESSAGE Module not changed:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:27.550
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:27.623
+!MESSAGE Module Status: -errors
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:27.664
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:29.051
+!MESSAGE Waiting on ProgressObject:@1764230358
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:29.167
+!MESSAGE ProgressObject completed :@1764230358
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:29.170
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:29.292
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:30.713
+!MESSAGE Waiting on ProgressObject:@701165029
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:30.988
+!MESSAGE ProgressObject completed :@701165029
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:30.990
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:30.991
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:32.312
+!MESSAGE Waiting on ProgressObject:@1420428207
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:32.434
+!MESSAGE ProgressObject completed :@1420428207
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:32.435
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:32.435
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:40:32.436
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:35.522
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:35.523
+!MESSAGE Module changed:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:35.525
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:35.599
+!MESSAGE Module changed:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:35.600
+!MESSAGE Module Status: -errors (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:35.634
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:36.956
+!MESSAGE Waiting on ProgressObject:@1289493915
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:37.071
+!MESSAGE ProgressObject completed :@1289493915
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:37.073
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:37.158
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:38.497
+!MESSAGE Waiting on ProgressObject:@1967076167
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:38.718
+!MESSAGE ProgressObject completed :@1967076167
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:38.720
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:38.721
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:40.038
+!MESSAGE Waiting on ProgressObject:@1376201487
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:40.165
+!MESSAGE ProgressObject completed :@1376201487
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:40.166
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:40.167
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:41:40.168
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-02 14:44:44.285
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for HttpServlet [in HttpServlet.class [in javax.servlet.http [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:999)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2017-03-02 14:44:44.285
+!MESSAGE Unknown javadoc format for HttpServlet [in HttpServlet.class [in javax.servlet.http [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-02 14:45:52.124
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for SysOREntry [in SnmpV2Mib$SysOREntry.class [in monfox.toolkit.snmp.agent.modules [in C:\Oracle\Middleware\Oracle_Home\wlserver\modules\monfox.dsnmp.agent.jar]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:999)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2017-03-02 14:45:52.124
+!MESSAGE Unknown javadoc format for SysOREntry [in SnmpV2Mib$SysOREntry.class [in monfox.toolkit.snmp.agent.modules [in C:\Oracle\Middleware\Oracle_Home\wlserver\modules\monfox.dsnmp.agent.jar]]]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:53.372
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:53.373
+!MESSAGE Module changed:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:53.375
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:53.448
+!MESSAGE Module changed:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:53.449
+!MESSAGE Module Status: -errors (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:53.504
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:55.270
+!MESSAGE Waiting on ProgressObject:@722638657
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:55.386
+!MESSAGE ProgressObject completed :@722638657
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:55.389
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:55.475
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:56.846
+!MESSAGE Waiting on ProgressObject:@1504369625
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:57.125
+!MESSAGE ProgressObject completed :@1504369625
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:57.127
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:57.128
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:58.472
+!MESSAGE Waiting on ProgressObject:@939562489
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:58.596
+!MESSAGE ProgressObject completed :@939562489
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:58.598
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:58.599
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:50:58.600
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:29.542
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:29.543
+!MESSAGE Module changed:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:29.546
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:29.622
+!MESSAGE Module changed:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:29.622
+!MESSAGE Module Status: -errors (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:29.660
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:31.186
+!MESSAGE Waiting on ProgressObject:@1716871089
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:31.297
+!MESSAGE ProgressObject completed :@1716871089
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:31.299
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:31.399
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:32.743
+!MESSAGE Waiting on ProgressObject:@2132305234
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:32.984
+!MESSAGE ProgressObject completed :@2132305234
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:32.986
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:32.987
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:34.282
+!MESSAGE Waiting on ProgressObject:@2041183612
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:34.404
+!MESSAGE ProgressObject completed :@2041183612
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:34.405
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:34.406
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:51:34.407
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:18.847
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:18.848
+!MESSAGE Module changed:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:18.850
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:18.928
+!MESSAGE Module changed:[errors]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:18.929
+!MESSAGE Module Status: -errors (change) (redeploy)
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:18.965
+!MESSAGE Status INFO: oracle.eclipse.tools.weblogic code=2000 ***dm.undeploy (undeploy) _auto_generated_ear_ null from targets [{Target=AdminServer, WebLogicTargetType=server, Name=_auto_generated_ear_}]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:20.292
+!MESSAGE Waiting on ProgressObject:@1708941284
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:20.406
+!MESSAGE ProgressObject completed :@1708941284
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:20.408
+!MESSAGE Module _auto_generated_ear_ was undeployed from AdminServer sucessfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:20.491
+!MESSAGE ***dm.distribute (deploy) module _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:21.948
+!MESSAGE Waiting on ProgressObject:@902857889
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:22.170
+!MESSAGE ProgressObject completed :@902857889
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:22.172
+!MESSAGE _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:22.173
+!MESSAGE ***dm.start (startModule) _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:23.510
+!MESSAGE Waiting on ProgressObject:@717393918
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:23.540
+!MESSAGE ProgressObject completed :@717393918
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:23.540
+!MESSAGE Started _auto_generated_ear_
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:23.541
+!MESSAGE Module _auto_generated_ear_ deployed successfully.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2017-03-02 14:54:23.543
+!MESSAGE Publishing finished.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-02 14:58:30.875
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for SysOREntry [in SnmpV2Mib$SysOREntry.class [in monfox.toolkit.snmp.agent.modules [in C:\Oracle\Middleware\Oracle_Home\wlserver\modules\monfox.dsnmp.agent.jar]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:999)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:602)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:113)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2017-03-02 14:58:30.875
+!MESSAGE Unknown javadoc format for SysOREntry [in SnmpV2Mib$SysOREntry.class [in monfox.toolkit.snmp.agent.modules [in C:\Oracle\Middleware\Oracle_Home\wlserver\modules\monfox.dsnmp.agent.jar]]]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-02 14:59:57.305
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [Unknown javadoc format for HttpServletResponse [in HttpServletResponse.class [in javax.servlet.http [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]]
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:81)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:999)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:635)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:627)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:164)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:86)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2017-03-02 14:59:57.305
+!MESSAGE Unknown javadoc format for HttpServletResponse [in HttpServletResponse.class [in javax.servlet.http [in C:\Oracle\Middleware\Oracle_Home\oracle_common\modules\javax.servlet.javax.servlet-api.jar]]]

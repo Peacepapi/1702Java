@@ -25,8 +25,13 @@ public class AuthFilter implements Filter{
 		if(request.getSession().getAttribute("logged_user") == null){
 			// if no, goto login.do with errors
 			req.setAttribute("please_login", "You must login!");
-			//req.getRequestDispatcher("login.do").forward(req, resp); remains as localhost:7001/state/secure/login.do
-			req.getRequestDispatcher("/login.do").forward(req, resp); // TODO removes everything before login.do
+			//req.getRequestDispatcher("login.do")
+				//.forward(req, resp); 
+				//remains as localhost:7001/state/secure/login.do
+			
+			req.getRequestDispatcher("/login.do")
+				.forward(req, resp); 
+				// TODO removes everything before login.do
 		}else{
 			// if yes, go ahead
 			chain.doFilter(req, resp); // send to next item in filterchain
@@ -34,6 +39,14 @@ public class AuthFilter implements Filter{
 	}
 
 	@Override
-	public void init(FilterConfig arg0) throws ServletException {}
+	public void init(FilterConfig config) throws ServletException {
+		String file = config.getInitParameter("configLocation");
+		System.out.println("Filter Reading config file @ " 
+				+ file + " to initialize servlet");
+		String global = config.getServletContext()
+				.getInitParameter("globalConfig");
+		System.out.println("Filter reading global config file @ " 
+				+ global + " to initialize servlet");
+	}
 
 }

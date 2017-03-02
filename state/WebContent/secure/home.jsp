@@ -8,6 +8,11 @@
 <title>Home</title>
 </head>
 <body>
+
+<jsp:include page="../nav.jsp"> <!-- dynamic include -->
+	<jsp:param value="${logged_user.ipAddress}" name="ip"/>
+</jsp:include>
+
 <%-- vulnerable to XSS attacks
  <div>Hello, ${logged_user.firstName}"</div> --%>
 <div>Hello, <c:out value="${logged_user.firstName}" /> </div>

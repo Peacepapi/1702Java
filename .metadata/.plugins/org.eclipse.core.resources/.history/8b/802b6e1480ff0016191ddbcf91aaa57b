@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="parse.do" method="post">
+Please enter a number.. not a String
+	<input type="text" name="value" />
+	<input type="submit" />
+</form>
+</body>
+</html>
