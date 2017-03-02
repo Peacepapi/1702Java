@@ -1,0 +1,30 @@
+package state;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.Cookie;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class LoginServlet extends HttpServlet{
+
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		// store username as a cookie
+		Cookie cookie = new Cookie("u", req.getParameter("user"));
+		resp.addCookie(cookie);
+		// store first name in session
+		// send to another page
+	}
+	
+}
+
+
+
+
+
+
+
+

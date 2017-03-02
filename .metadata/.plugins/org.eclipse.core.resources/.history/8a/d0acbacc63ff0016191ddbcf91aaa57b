@@ -1,0 +1,38 @@
+package state;
+
+import java.io.IOException;
+
+import javax.servlet.Filter;
+import javax.servlet.FilterChain;
+import javax.servlet.FilterConfig;
+import javax.servlet.ServletException;
+import javax.servlet.ServletRequest;
+import javax.servlet.ServletResponse;
+import javax.servlet.http.HttpServletRequest;
+
+public class AuthFilter implements Filter{
+
+	@Override
+	public void destroy() {}
+
+	@Override
+	public void doFilter(ServletRequest req, 
+			ServletResponse resp, FilterChain chain)
+			throws IOException, ServletException {
+		System.out.println("Entering /secure/* Filter");
+		// check if user is logged in
+		HttpServletRequest request = (HttpServletRequest) req;
+		if(request.getSession().getAttribute("logged_user") == null){
+			// if no, goto login.do with errors
+			request.setAttribute("please_login", "You must login!");
+			request.getRequestDispatcher("login.do").forward(request, resp);
+		}else{
+			// if yes, go ahead
+			chain.doFilter(req, resp); // send to next item in filterchain
+		}
+	}
+
+	@Override
+	public void init(FilterConfig arg0) throws ServletException {}
+
+}

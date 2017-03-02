@@ -1,3 +1,4 @@
-C\:/Users/Owner/1702Java/fc/WebContent = fc.war
-C\:/Users/Owner/1702Java/.metadata/.plugins/org.eclipse.core.resources/fc/build/weboutput = fc.war
-C\:/Users/Owner/1702Java/fc/build/classes = fc.war/WEB-INF/classes
+C\:/Users/Owner/1702Java/ers/target/m2e-wtp/web-resources = ers.war
+C\:/Users/Owner/1702Java/.metadata/.plugins/org.eclipse.core.resources/ers/build/weboutput = ers.war
+C\:/Users/Owner/1702Java/ers/src/main/webapp = ers.war
+C\:/Users/Owner/1702Java/ers/target/classes = ers.war/WEB-INF/classes

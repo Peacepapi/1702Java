@@ -1,7 +1,0 @@
-package com.revature.jdbc;
-
-import junit.framework.TestCase;
-
-public class ConnectionTest extends TestCase {
-
-}
