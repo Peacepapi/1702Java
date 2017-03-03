@@ -1,3 +1,0 @@
-C\:/Users/Owner/1702Java/errors/WebContent = errors.war
-C\:/Users/Owner/1702Java/.metadata/.plugins/org.eclipse.core.resources/errors/build/weboutput = errors.war
-C\:/Users/Owner/1702Java/errors/build/classes = errors.war/WEB-INF/classes

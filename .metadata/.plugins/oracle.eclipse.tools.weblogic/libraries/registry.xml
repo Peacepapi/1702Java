@@ -27,4 +27,8 @@
     <location>C:\Oracle\Middleware\Oracle_Home\wlserver\common\deployable-libraries\weblogic-sca-1.2.war</location>
     <temp-dir>C:\Users\Owner\1702Java\.metadata\.plugins\oracle.eclipse.tools.weblogic\libraries\weblogic-sca_1.2_1.2.0.0</temp-dir>
   </library-module>
+  <library-module>
+    <location>C:\Oracle\Middleware\Oracle_Home\wlserver\common\deployable-libraries\jsf-2.0.war</location>
+    <temp-dir>C:\Users\Owner\1702Java\.metadata\.plugins\oracle.eclipse.tools.weblogic\libraries\jsf_2.0_1.0.0.0_2-2-8</temp-dir>
+  </library-module>
 </library-modules>

@@ -16,6 +16,7 @@
 	<servlet>
 		<servlet-name>addArtist</servlet-name>
 		<servlet-class>artist.AddArtistServlet</servlet-class>
+		<load-on-startup>4</load-on-startup>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>addArtist</servlet-name>
