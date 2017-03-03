@@ -1,0 +1,35 @@
+package com.revature.xml;
+
+import java.io.IOException;
+import java.io.InputStream;
+
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.parsers.SAXParser;
+import javax.xml.parsers.SAXParserFactory;
+
+import org.xml.sax.SAXException;
+import org.xml.sax.helpers.DefaultHandler;
+
+public class SAXExample {
+
+	public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
+		InputStream is = SAXExample.class
+				.getClassLoader().getResourceAsStream("book.xml");
+		SAXExample.BookHandler handler = new SAXExample.BookHandler();
+		SAXParserFactory factory = SAXParserFactory.newInstance();
+		SAXParser parser = factory.newSAXParser();
+		parser.parse(is, handler);
+	}
+	
+	static class BookHandler extends DefaultHandler{
+		@Override
+		public void startDocument() throws SAXException {
+			System.out.println("Begin to read document");
+		}
+		@Override
+		public void endDocument() throws SAXException {
+			System.out.println("Done reading document");
+		}
+	}
+	
+}

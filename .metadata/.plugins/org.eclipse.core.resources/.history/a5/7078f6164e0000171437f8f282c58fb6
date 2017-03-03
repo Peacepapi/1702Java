@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML: Xtensible Markup Language - data structure.. tree based - describe 
+	data.. markup for metadata - HTML is more for 'showing' data - XML is a common 
+	data interchange format - XML is also common for configuration files -->
+<!-- elements and attributes -->
+<!DOCTYPE note [
+  <!ELEMENT book    (title,authors,publishing)> 
+  	<!ATTLIST book isbn CDATA 0>
+  <!ELEMENT to      (#PCDATA)>
+  <!ELEMENT from    (#PCDATA)>
+  <!ELEMENT heading (#PCDATA)>
+  <!ELEMENT body    (#PCDATA)>
+]>
+<book isbn="978-0-596-00920-5">
+	<title>Head First Java</title>
+	<authors>
+		<author>Kathy Sierra</author>
+		<author>Bert Bates</author>
+	</authors>
+	<publishing>
+		<publisher>O'Reilly Media</publisher>
+		<year>2005</year>
+	</publishing>
+</book>

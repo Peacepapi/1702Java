@@ -1,12 +1,13 @@
 package com.revature.xml;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Book {
 
 	private String isbn;
 	private String title;
-	private List<String> authors;
+	private List<String> authors = new ArrayList<>();
 	private String publisher;
 	private int year;
 	

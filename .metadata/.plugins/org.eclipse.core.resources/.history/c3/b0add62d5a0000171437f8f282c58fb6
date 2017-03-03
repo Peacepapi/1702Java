@@ -1,0 +1,28 @@
+package jaxb;
+
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Unmarshaller;
+
+// Java API for XML Binding
+public class JAXBExample {
+	
+	private static JAXBContext context;
+			
+	public static void main(String[] args) throws JAXBException {
+		context = JAXBContext.newInstance(Food.class);
+		Unmarshaller unmarshaller = context.createUnmarshaller();
+		System.out.println(new JAXBExample().getFood(unmarshaller));
+	}
+	
+	public Food getFood(Unmarshaller unmarshaller) throws JAXBException{
+		return (Food) unmarshaller.unmarshal(
+				this.getClass().getClassLoader()
+				.getResourceAsStream("food.xml"));
+	}
+	
+	public String getXml(Food food){
+		
+	}
+	
+}

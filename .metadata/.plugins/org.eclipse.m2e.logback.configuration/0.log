@@ -4180,3 +4180,303 @@ org.eclipse.core.runtime.CoreException: Launch configuration SimpleTransactionTe
 2017-03-03 14:53:46,619 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2017-03-03 14:53:46,621 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-03-03 14:53:46,621 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:14:56,182 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:14:56,184 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:14:56,186 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:14:56,186 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:15:05,286 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:15:05,288 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:15:05,293 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:15:05,294 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:15:17,785 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:15:17,786 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:15:17,788 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:15:17,788 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:15:25,882 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:15:25,884 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:15:25,886 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:15:25,887 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:15:52,712 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:15:52,713 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:15:52,714 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:15:52,715 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:17:01,742 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:01,743 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:17:01,746 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:01,746 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:17:12,937 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:12,938 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:17:12,940 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:12,941 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:17:20,295 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:20,296 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:17:20,298 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:20,298 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:17:23,580 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:23,580 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:17:23,581 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:23,583 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:17:27,190 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:27,191 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:17:27,192 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:27,193 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:17:30,567 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:30,568 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:17:30,570 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:30,570 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:17:43,248 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:43,249 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:17:43,251 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:17:43,251 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:19:19,216 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:19:19,217 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:19:19,218 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:19:19,219 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:23:04,284 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:23:04,285 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:23:04,287 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:23:04,287 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:23:05,554 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:23:05,555 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:23:05,557 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:23:05,557 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:23:28,242 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:23:28,243 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:23:28,244 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:23:28,245 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:26:40,081 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:26:40,082 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:26:40,084 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:26:40,085 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:26:48,695 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:26:48,696 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:26:48,698 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:26:48,699 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:27:15,456 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:27:15,457 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:27:15,459 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:27:15,459 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:27:24,407 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:27:24,409 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:27:24,411 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:27:24,411 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:27:38,524 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:27:38,525 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:27:38,526 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:27:38,526 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:27:47,972 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:27:47,973 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-03 15:27:47,975 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:27:47,975 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:28:18,590 [Worker-100] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature:xml:0.0.1-SNAPSHOT @ C:\Users\Owner\1702Java\xml\pom.xml.
+2017-03-03 15:28:19,289 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:28:19,292 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-03 15:28:19,295 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:28:19,295 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:28:20,885 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:28:20,886 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:28:20,896 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:28:20,897 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:28:38,628 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:28:38,629 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:28:38,631 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:28:38,632 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:29:07,992 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:29:07,993 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-03 15:29:07,994 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:29:07,995 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:29:12,887 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:29:12,887 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-03 15:29:12,889 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:29:12,889 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:30:26,116 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:30:26,117 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:30:26,119 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:30:26,119 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:30:30,412 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:30:30,414 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:30:30,417 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:30:30,419 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:51:56,349 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:51:56,352 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:51:56,358 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:51:56,359 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:52:08,795 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:52:08,796 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:52:08,798 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:52:08,799 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:53:26,522 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:53:26,523 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:53:26,525 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:53:26,525 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 15:58:11,017 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:58:11,018 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 15:58:11,020 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:58:11,020 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:01:44,108 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:01:44,109 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:01:44,111 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:01:44,111 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:02:18,117 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:02:18,118 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:02:18,120 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:02:18,121 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:02:42,742 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:02:42,743 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:02:42,748 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:02:42,748 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:02:54,338 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:02:54,339 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:02:54,341 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:02:54,342 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:04:51,013 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:04:51,015 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:04:51,018 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:04:51,019 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:05:16,675 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:05:16,676 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:05:16,677 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:05:16,677 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:07:30,723 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:07:30,724 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:07:30,725 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:07:30,725 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:08:25,561 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:08:25,563 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:08:25,565 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:08:25,565 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:14:30,889 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:14:30,891 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:14:30,892 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:14:30,893 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:14:37,437 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:14:37,439 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:14:37,440 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:14:37,441 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:14:44,968 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:14:44,969 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-03 16:14:44,971 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:14:44,972 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:15:09,683 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:15:09,684 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:15:09,686 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:15:09,686 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:16:07,029 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:16:07,030 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:16:07,032 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:16:07,032 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:16:29,971 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:16:29,972 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:16:29,974 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:16:29,974 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:16:39,525 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:16:39,526 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:16:39,528 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:16:39,528 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:23:53,179 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:23:53,180 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:23:53,182 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:23:53,183 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:24:38,405 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:24:38,406 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:24:38,409 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:24:38,409 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:25:48,628 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:25:48,630 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:25:48,632 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:25:48,633 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:26:36,357 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:26:36,358 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:26:36,360 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:26:36,360 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:29:26,091 [Worker-128] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature:xml:0.0.1-SNAPSHOT @ C:\Users\Owner\1702Java\xml\pom.xml.
+2017-03-03 16:29:26,997 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:29:26,999 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-03 16:29:27,001 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:29:27,001 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:29:27,443 [Worker-126] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-03 16:29:27,992 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature:xml:0.0.1-SNAPSHOT @ C:\Users\Owner\1702Java\xml\pom.xml.
+2017-03-03 16:29:28,219 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /xml/src/main/java
+2017-03-03 16:29:28,220 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /xml/src/main/resources
+2017-03-03 16:29:28,228 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /xml/src/test/java
+2017-03-03 16:29:29,174 [Worker-126] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-03-03 16:29:30,206 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:29:30,221 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:29:30,266 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:29:30,266 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:31:26,846 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:31:26,849 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:31:26,851 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:31:26,851 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:32:28,683 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:32:28,684 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:32:28,687 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:32:28,687 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:33:53,173 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:33:53,174 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:33:53,178 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:33:53,178 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:34:04,398 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:34:04,399 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:34:04,401 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:34:04,401 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:34:43,766 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:34:43,768 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:34:43,770 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:34:43,771 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:35:39,562 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:35:39,563 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:35:39,564 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:35:39,564 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:38:00,182 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:38:00,183 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:38:00,186 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:38:00,186 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:40:57,788 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:40:57,790 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:40:57,791 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:40:57,792 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:41:16,856 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:41:16,857 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:41:16,859 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:41:16,859 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:41:30,688 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:41:30,688 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:41:30,689 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:41:30,690 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:41:37,593 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:41:37,594 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:41:37,596 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:41:37,596 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:41:40,529 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:41:40,530 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:41:40,531 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:41:40,532 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:43:53,474 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:43:53,475 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:43:53,478 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:43:53,478 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:44:06,062 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:44:06,063 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:44:06,065 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:44:06,065 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:44:21,811 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:44:21,812 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:44:21,814 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:44:21,814 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:45:43,018 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:45:43,019 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:45:43,020 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:45:43,021 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:45:47,902 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:45:47,903 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:45:47,905 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:45:47,905 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:46:46,120 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:46:46,122 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:46:46,124 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:46:46,125 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
+2017-03-03 16:47:40,356 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:47:40,357 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-03 16:47:40,358 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:47:40,359 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\1702Java\xml\src\test\resources
