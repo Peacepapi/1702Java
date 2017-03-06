@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Top-to-Bottom</title>
+</head>
+<body>
+<button id="click">Click</button>
+<div id="output"></div>
+</body>
+</html>

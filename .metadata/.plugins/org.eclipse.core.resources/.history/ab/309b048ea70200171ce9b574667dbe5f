@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Top-to-Bottom</title>
+</head>
+<body>
+<button id="go">Click</button>
+<div id="output"></div>
+</body>
+<script type="text/javascript">
+// event handler
+function handler(){
+	document.getElementById('output').innerHTML = 'Hello World';
+}
+// event listener
+document.getElementById('go').addEventListener('click', handler, false);
+
+</script>
+</html>

@@ -1,0 +1,16 @@
+// event handler
+function handler(){
+	document.getElementById('output').innerHTML = 'Hello World';
+	//alert('Annoying');
+	console.log('Less annoying'); //more preferred for debugging
+}
+// event listener
+document.getElementById('go').addEventListener('click', handler, false);
+
+
+
+
+
+
+
+

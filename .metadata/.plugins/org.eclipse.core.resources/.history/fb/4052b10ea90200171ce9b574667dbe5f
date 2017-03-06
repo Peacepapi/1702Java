@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Register to Netflix</title>
+</head>
+<body>
+<form>
+	Name: <input type="text" id="name" />
+	Age: <input type="text" id="age" />
+</form>
+</body>
+</html>

@@ -56,6 +56,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.revature.xml"/>
 			<item value="com.revature.web"/>
 			<item value="com.revature.patterns"/>
 		</list>
@@ -63,6 +64,7 @@
 			<item value="com.revature"/>
 		</list>
 		<list key="artifactId">
+			<item value="xml"/>
 			<item value="web"/>
 			<item value="patterns"/>
 		</list>
