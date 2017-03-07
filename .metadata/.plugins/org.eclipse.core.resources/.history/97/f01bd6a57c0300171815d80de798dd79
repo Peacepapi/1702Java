@@ -1,0 +1,15 @@
+package json;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+public class JSONConverter {
+
+	public Artist getArtist(String json){
+		new ObjectMapper().readValue(json, Artist.class);
+	}
+	
+	public String getJSON(Artist artist){
+		
+	}
+	
+}

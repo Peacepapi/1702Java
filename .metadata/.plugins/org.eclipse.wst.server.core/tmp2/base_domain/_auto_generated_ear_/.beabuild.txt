@@ -1,3 +1,0 @@
-C\:/Users/Owner/1702Java/javascript/WebContent = javascript.war
-C\:/Users/Owner/1702Java/.metadata/.plugins/org.eclipse.core.resources/javascript/build/weboutput = javascript.war
-C\:/Users/Owner/1702Java/javascript/build/classes = javascript.war/WEB-INF/classes

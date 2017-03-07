@@ -1,0 +1,16 @@
+package json;
+
+import org.junit.Test;
+
+import com.fasterxml.jackson.core.JsonProcessingException;
+
+public class JsonTest {
+
+	private Artist artist = new Artist(1, "Metallica");
+	
+	@Test
+	public void testJson() throws JsonProcessingException{
+		String json = new JSONConverter().getJSON(artist);
+	}
+	
+}

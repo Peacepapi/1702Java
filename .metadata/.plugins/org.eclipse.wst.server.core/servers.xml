@@ -3,7 +3,7 @@
   <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v7.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v7.0 Server at localhost" name="Tomcat v7.0 Server at localhost" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
     <list key="modules" value0="state::org.eclipse.jst.jee.server:state::jst.web::3.0"/>
   </server>
-  <server auto-publish-setting="1" hostname="localhost" id="Oracle WebLogic Server at localhost [base_domain]" name="Oracle WebLogic Server at localhost [base_domain]" runtime-id="Oracle WebLogic Server 12c R2 (12.2.1.2)" server-type="weblogic.server" server-type-id="weblogic.server" start-timeout="480" stop-timeout="240" timestamp="6" weblogic_domain_path="C:\Oracle\Middleware\Oracle_Home\user_projects\domains\base_domain" weblogic_host_name="localhost" weblogic_is_remote="false" weblogic_port="7001" weblogic_use_bootprop="true" weblogic_use_config_xml="true">
-    <list key="modules" value0="javascript::org.eclipse.jst.jee.server:javascript::jst.web::3.1"/>
+  <server auto-publish-setting="1" hostname="localhost" id="Oracle WebLogic Server at localhost [base_domain]" name="Oracle WebLogic Server at localhost [base_domain]" runtime-id="Oracle WebLogic Server 12c R2 (12.2.1.2)" server-type="weblogic.server" server-type-id="weblogic.server" start-timeout="480" stop-timeout="240" timestamp="7" weblogic_domain_path="C:\Oracle\Middleware\Oracle_Home\user_projects\domains\base_domain" weblogic_host_name="localhost" weblogic_is_remote="false" weblogic_port="7001" weblogic_use_bootprop="true" weblogic_use_config_xml="true">
+    <list key="modules"/>
   </server>
 </servers>

@@ -37,4 +37,7 @@
 <fullyQualifiedTypeName name="jaxb.Food"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+<fullyQualifiedTypeName name="json.Artist"/>
+<fullyQualifiedTypeName name="json.JSONConverter"/>
 </qualifiedTypeNameHistroy>
