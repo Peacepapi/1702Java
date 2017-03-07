@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>JavaScript Object Notation - JSON</title>
+</head>
+<body>
+<form action="#">
+	Id: <input type="text" id="id" /> <br/>
+	Name: <input type="text" id="name" /> <br/>
+	Major: <input type="text" id="major" /> <br/>
+	<button id="create">Create</button>
+</form>
+<div id="output"></div>
+</body>
+<script type="text/javascript">
+// Object,
+// Number, Boolean, Undefined (prop/method not defined)
+// Null, Date, String
+
+// constructor
+function Trainee(id, name, major){
+	this.id = id;
+	this.name = name;
+	this.major = major;
+}
+document.getElementById('create')
+	.addEventListener('click', function(e) {
+		// extract form field values and store in object
+		var id = document.getElementById('id').value;
+		var name = document.getElementById('name').value;
+		var major = document.getElementById('major').value;
+		var trainee = new Trainee(id, name, major);
+		trainee.college = 'CUNY';	
+			
+		document.getElementById('output').innerHTML = 
+			'<h1>'+ trainee.name +'</h1>' 
+			+ '<p>Id: '+ trainee.id +'</p>'
+			+ '<p>Major: '+ trainee.major +'</p>'
+			+ '<p>College: '+ trainee.college +'</p>';
+		
+		console.log(trainee);
+		
+	}, false);
+
+
+
+</script>
+</html>
+
+
+
+

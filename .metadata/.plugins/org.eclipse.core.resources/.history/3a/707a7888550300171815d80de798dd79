@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style type="text/css">
+div{
+	background-color: white;
+	visibility: hidden;
+	position: absolute;
+}
+</style>
+</head>
+<body>
+<img src="off.jpg" id="pic" />
+<div id="tip"><p>Tooltip</p></div>
+</body>
+<script type="text/javascript">
+var pic = document.getElementById('pic'); // global
+const on = 'on.jpg';
+const off = 'off.jpg';
+
+pic.addEventListener('mouseenter', swap, false);
+pic.addEventListener('mouseleave', swap, false);
+pic.addEventListener('mousemove', tooltip, false);
+window.setTimeout(abc, 10000); //wait 10sec then exec callback func
+window.setInterval(function() {
+	alert('Are we there yet?');
+}, 3000);
+
+function swap(e){
+	dan = 'Pickles'; //global 
+	var ctrl = e.ctrlKey;
+	if(ctrl){
+		if(pic.getAttribute('src')===on){
+			pic.setAttribute('src', off);
+		}else{
+			pic.src = on;
+		}
+	}
+}
+
+function tooltip(e){
+	// pixel location
+	var x = e.clientX - 10 +'px'; 
+	var y = e.clientY - 10 +'px';
+	var tip = document.getElementById('tip');
+	// change style with HTMLElement style property
+	tip.style.setAttribute('visibility', 'visible');
+	tip.style.setAttribute('top', y);
+	tip.style.setAttribute('left', x);
+}
+
+function abc(){
+	alert(dan + on + off); // can access global variables
+}
+</script>
+</html>
+
+
+
+
+
+
+

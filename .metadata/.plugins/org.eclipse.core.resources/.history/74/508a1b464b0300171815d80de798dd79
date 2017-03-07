@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function(e) {
+	// everything
+	var num = 5;		// Number	
+	var number = '5';	// String
+	alert(num == number);	// true, loosely-typed
+	alert(num === number);	// false, checking data type
+	
+}, false);
+</script>
+</head>
+<body>
+Comparison
+</body>
+</html>

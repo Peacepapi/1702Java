@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<img src="off.jpg" id="pic" />
+</body>
+<script type="text/javascript">
+var pic = document.getElementById('pic'); // global
+const on = 'on.jpg';
+const off = 'off.jpg';
+
+function swap(){
+	dan = 'Pickles'; //global 
+	
+}
+
+function abc(){
+	alert(dan + on + off); // can access global variables
+}
+</script>
+</html>
+
+
+
+
+
+
+
