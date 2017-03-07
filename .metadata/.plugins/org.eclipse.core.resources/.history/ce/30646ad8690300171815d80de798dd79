@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+To-do list
+<ul id="list">
+	<li id="1">Plan</li>
+	<li id="2">Analyze</li>
+	<li id="3">Design</li>
+</ul>
+</body>
+</html>

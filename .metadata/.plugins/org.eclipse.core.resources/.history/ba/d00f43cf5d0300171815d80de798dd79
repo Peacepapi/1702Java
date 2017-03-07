@@ -47,9 +47,6 @@ function tooltip(e){
 	tip.style.visibility = 'visible';
 	tip.style.top = y;
 	tip.style.left = x;
-	window.setTimeout(function() {
-		tip.style.visibility = 'hidden';
-	}, 1000);
 }
 
 function abc(){

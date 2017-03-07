@@ -40,16 +40,13 @@ function swap(e){
 
 function tooltip(e){
 	// pixel location
-	var x = e.clientX - 20 +'px'; 
-	var y = e.clientY - 20 +'px';
+	var x = e.clientX - 45 +'px'; 
+	var y = e.clientY - 45 +'px';
 	var tip = document.getElementById('tip');
 	// change style with HTMLElement style property
 	tip.style.visibility = 'visible';
 	tip.style.top = y;
 	tip.style.left = x;
-	window.setTimeout(function() {
-		tip.style.visibility = 'hidden';
-	}, 1000);
 }
 
 function abc(){

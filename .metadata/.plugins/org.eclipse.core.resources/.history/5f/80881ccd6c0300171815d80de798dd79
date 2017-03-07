@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+To-do list
+<div id="container"><!-- has listener -->
+	<ul id="list">
+		<li id="1">Plan</li>
+		<li id="2">Analyze</li>
+		<li id="3">Design</li>
+	</ul>
+</div>
+<form action="#">
+	<input type="text" id="item" placeholder="Something to do">
+	<button id="add">Add</button>
+</form>
+</body>
+<script type="text/javascript">
+var todocount = 4;
+document.getElementById('add').addEventListener('click', function(e) {
+	// create <li> element
+	var li = document.createElement('LI');
+	// update value and id attributes
+	li.innerText = document.getElementById('item').value;
+	li.id = todocount; 
+	// append to the parent element 
+	document.getElementById('list').appendChild(li);
+	// increment counter for id
+	todocount++;
+}, false);
+document.getElementById('container').addEventListener('click', function(e) {
+	console.log(e.target.id);
+}, false);
+</script>
+</html>
