@@ -70,6 +70,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.revature.automation"/>
 			<item value="com.revature.json"/>
 			<item value="com.revature.jscript"/>
 			<item value="com.revature.xml"/>
@@ -80,6 +81,7 @@
 			<item value="com.revature"/>
 		</list>
 		<list key="artifactId">
+			<item value="automation"/>
 			<item value="json"/>
 			<item value="jscript"/>
 			<item value="xml"/>

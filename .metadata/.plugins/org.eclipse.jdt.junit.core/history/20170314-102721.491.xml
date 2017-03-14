@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CukesTest" project="automation" tests="5" started="5" failures="0" errors="0" ignored="5">
+  <testsuite name="com.revature.automation.CukesTest" time="0.001">
+    <testsuite name="Feature: Withdraw cash" time="0.001">
+      <testsuite name="Scenario: All good" time="0.001" incomplete="true">
+        <skipped/>
+        <testcase name="Given I entered my card" classname="Scenario: All good" time="0.001" ignored="true"/>
+        <testcase name="And I input my pin" classname="Scenario: All good" time="0.0" ignored="true"/>
+        <testcase name="And I have 1000 in my account" classname="Scenario: All good" time="0.0" ignored="true"/>
+        <testcase name="When I withdraw 400 doll hairs" classname="Scenario: All good" time="0.0" ignored="true"/>
+        <testcase name="Then I have 600 doll hairs left" classname="Scenario: All good" time="0.0" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

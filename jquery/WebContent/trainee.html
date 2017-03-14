@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Trainee Mgmt</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<body>
+<form action="#">
+<h2>Add a Trainee</h2>
+	Id: <input type="text" id="id"> <br/>
+	Name: <input type="text" id="name"> <br/>
+	Major: <input type="text" id="major"> <br/>
+	<input type="submit" id="add" value="Add"> <br/>
+</form>
+
+<h2>All Trainees</h2>
+<table>
+	<tr><th>ID</th><th>Name</th><th>Major</th></tr>
+</table>
+
+</body>
+<script type="text/javascript">
+// trainee constructor
+function Trainee(id,name,major) {
+	this.id = id;
+	this.name = name;
+	this.major = major;
+}
+// get trainee from form
+function process(){
+	var trainee = 
+		new Trainee( $('#id').val(), $('#name').val(), $('#major').val() );
+	console.log(trainee);
+	// add trainee as row to table
+	$('table tbody').append('<tr><td>' 
+		+ trainee.id + '</td><td>' 
+		+ trainee.name + '</td><td>' 
+		+ trainee.major + '</td></tr>');
+	// pseudo-ajax
+	var xhr = new XMLHttpRequest(); 
+	// register our callback
+	xhr.onreadystatechange = function(){
+		if(xhr.readyState == '4' && xhr.status=='200'){
+			console.log('Ajax call complete');
+			console.log(xhr.response);
+		}
+	}
+	// prepare our http request
+	xhr.open('GET', 
+		'http://localhost:7001/ajax/getAll', true);
+	// send it to server
+	//xhr.send(requestBody);
+	xhr.send();
+	console.log(xhr.response);
+}
+// process when add button clicked
+$('#add').click(process);
+
+
+
+
+</script>
+</html>
+
+
+
+
+

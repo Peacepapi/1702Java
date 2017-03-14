@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Hello jQuery</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<body>
+<div id="dan" class="pickles"> Hello </div>
+<div class="pickles"> jQuery </div>
+<button>Click</button>
+</body>
+<script type="text/javascript">
+$(document).ready(function() { // DOMContentLoaded
+	$('div').css('backgroundColor', 'blue'); // change css prop
+	$('#dan').html('<h1>Pound Dan</h1>'); //innerHTML
+	$('.pickles').text('Pickles'); // getelementsbyclassname / innerText
+	
+	$('button').click(function(e) {   // addEventListener
+		$('div').slideUp(3000);
+	});
+	$('div').hover(function(e) {
+		e.currentTarget.style.backgroundColor = 'green';
+	});
+	
+});
+</script>
+</html>
+
+
+
+
+

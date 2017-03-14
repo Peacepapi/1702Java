@@ -1,0 +1,12 @@
+package com.revature.automation;
+
+import cucumber.api.java.en.Given;
+
+public class BogusTest {
+
+	@Given("^I have (\\d+) in my account$")
+	public void i_have_in_my_account(int arg1) throws Throwable {
+	    System.out.println("Given I have " + arg1 + " in my account");
+	}
+	
+}

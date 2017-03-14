@@ -1,0 +1,4 @@
+Feature: Withdraw cash
+	As a debit card holder
+	I can withdraw cash from an ATM
+	So I can pay muh bills

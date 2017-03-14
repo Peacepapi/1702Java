@@ -1,0 +1,11 @@
+Feature: User registration
+  As a customer
+  I can register
+  So I can use services
+
+  Background: Setup data for all my tests
+    Given: I have all these users
+    |		username		|		name					|		age		|
+    |		danp				|	Dan Pickles   	|   45 		|
+    |		howiej			|	Howard Johnson  |		55		|
+

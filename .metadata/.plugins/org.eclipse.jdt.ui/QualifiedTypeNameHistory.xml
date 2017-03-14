@@ -40,4 +40,6 @@
 <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
 <fullyQualifiedTypeName name="json.Artist"/>
 <fullyQualifiedTypeName name="json.JSONConverter"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Find a Trainee</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<body>
+<form action="#">
+	<input type="text" id="q"> <br/>
+	<button>Find</button>
+</form>
+<div id="out"></div>
+</body>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('button').click(function(e) {
+		var id = $('#q').val();
+		var url = 'http://localhost:7001/'+
+			'ajax/getById?id='+id; //x-www-url-form-encoded mimetype
+		$.ajax(url, {
+			method: 'GET',
+			success: function(response){
+				console.log(response);
+				var trainee = JSON.parse(response);
+				$('#out').text(
+					trainee.id + ' '+
+					trainee.name + ' ' + 
+					trainee.major
+				);
+			}
+		});
+	
+	});
+});
+</script>
+</html>
+
+
+
+
+
+
+
+

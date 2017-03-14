@@ -1,0 +1,4 @@
+Feature: User registration
+	As a customer
+	I can register
+	So I can use services

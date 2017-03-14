@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CukesTest" project="automation" tests="5" started="5" failures="2" errors="0" ignored="0">
+  <testsuite name="com.revature.automation.CukesTest" time="0.023">
+    <testsuite name="Feature: Withdraw cash" time="0.023">
+      <testsuite name="Scenario: All good" time="0.023" incomplete="true">
+        <failure>java.lang.AssertionError&#13;
+	at org.junit.Assert.fail(Assert.java:86)&#13;
+	at org.junit.Assert.fail(Assert.java:95)&#13;
+	at com.revature.automation.WithdrawTest.i_have_doll_hairs_left(WithdrawTest.java:38)&#13;
+	at ✽.Then I have 600 doll hairs left(src/test/resources/withdraw.feature:14)&#13;
+&#13;
+</failure>
+        <testcase name="Given I entered my card" classname="Scenario: All good" time="0.006"/>
+        <testcase name="And I input my pin" classname="Scenario: All good" time="0.006"/>
+        <testcase name="And I have 1000 in my account" classname="Scenario: All good" time="0.003"/>
+        <testcase name="When I withdraw 400 doll hairs" classname="Scenario: All good" time="0.004"/>
+        <testcase name="Then I have 600 doll hairs left" classname="Scenario: All good" time="0.005">
+          <failure>java.lang.AssertionError&#13;
+	at org.junit.Assert.fail(Assert.java:86)&#13;
+	at org.junit.Assert.fail(Assert.java:95)&#13;
+	at com.revature.automation.WithdrawTest.i_have_doll_hairs_left(WithdrawTest.java:38)&#13;
+	at ✽.Then I have 600 doll hairs left(src/test/resources/withdraw.feature:14)&#13;
+&#13;
+</failure>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

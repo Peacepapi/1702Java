@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CukesTest" project="automation" tests="13" started="13" failures="0" errors="0" ignored="13">
+  <testsuite name="com.revature.automation.CukesTest" time="0.009">
+    <testsuite name="Feature: User registration" time="0.009">
+      <testsuite name="Scenario Outline: Repeat steps for each Example" time="0.004">
+        <testsuite name="Examples:" time="0.004">
+          <testsuite name="| 33 | Randolph Scott | randys |" time="0.001" incomplete="true">
+            <skipped/>
+            <testcase name="Given I am 33 years old" classname="| 33 | Randolph Scott | randys |" time="0.001" ignored="true"/>
+            <testcase name="And my name is Randolph Scott" classname="| 33 | Randolph Scott | randys |" time="0.0" ignored="true"/>
+            <testcase name="And I want randys as my username" classname="| 33 | Randolph Scott | randys |" time="0.0" ignored="true"/>
+            <testcase name="When I press the Register button" classname="| 33 | Randolph Scott | randys |" time="0.0" ignored="true"/>
+            <testcase name="Then I will registered" classname="| 33 | Randolph Scott | randys |" time="0.0" ignored="true"/>
+          </testsuite>
+          <testsuite name="| 21 | Howie Mandell | howiem |" time="0.0" incomplete="true">
+            <skipped/>
+            <testcase name="Given I am 21 years old" classname="| 21 | Howie Mandell | howiem |" time="0.0" ignored="true"/>
+            <testcase name="And my name is Howie Mandell" classname="| 21 | Howie Mandell | howiem |" time="0.0" ignored="true"/>
+            <testcase name="And I want howiem as my username" classname="| 21 | Howie Mandell | howiem |" time="0.0" ignored="true"/>
+            <testcase name="When I press the Register button" classname="| 21 | Howie Mandell | howiem |" time="0.0" ignored="true"/>
+            <testcase name="Then I will registered" classname="| 21 | Howie Mandell | howiem |" time="0.0" ignored="true"/>
+          </testsuite>
+        </testsuite>
+      </testsuite>
+      <testsuite name="Scenario: Already exists" time="0.001" incomplete="true">
+        <skipped/>
+        <testcase name="Given I want &quot;danp&quot; as my username" classname="Scenario: Already exists" time="0.0" ignored="true"/>
+        <testcase name="When I press the Register button" classname="Scenario: Already exists" time="0.0" ignored="true"/>
+        <testcase name="Then I will get an error to choose new username" classname="Scenario: Already exists" time="0.0" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Trainee Mgmt</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<body>
+<form>
+<h2>Add a Trainee</h2>
+	Id: <input type="text" id="id"> <br/>
+	Name: <input type="text" id="name"> <br/>
+	Major: <input type="text" id="major"> <br/>
+	<input type="submit" id="add" value="Add"> <br/>
+</form>
+</body>
+<script type="text/javascript">
+// trainee constructor
+function Trainee(id,name,major) {
+	this.id = id;
+	this.name = name;
+	this.major = major;
+}
+// get trainee from form
+
+</script>
+</html>
+
+
+
+
+
