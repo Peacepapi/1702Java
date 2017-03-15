@@ -1,0 +1,7 @@
+package com.revature.hibernate;
+
+public interface HeroDAO {
+
+	public void create(Hero hero);
+	
+}

@@ -1,0 +1,18 @@
+package com.revature.hibernate;
+
+import java.util.Date;
+
+import org.junit.Test;
+
+public class InsertTest {
+
+	@Test
+	public void insert(){
+		HeroDAO dao = new HeroDAOImpl();
+		Hero hero = new Hero("Tealc",
+				2700, 700, 99, new Date());
+		dao.create(hero);
+		System.out.println("Success!");
+	}
+	
+}

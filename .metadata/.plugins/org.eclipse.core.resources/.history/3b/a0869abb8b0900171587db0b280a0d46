@@ -1,0 +1,24 @@
+package com.revature.hibernate;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+
+public class HeroDAOImpl implements HeroDAO{
+
+	private SessionFactory sf = HibernateUtils.getSessionFactory();
+	
+	public void create(Hero hero) {
+		Session session = sf.openSession(); 
+		Transaction tx = session.beginTransaction();
+		session.save(hero); 
+		tx.commit();
+		session.close();
+	}
+
+	public Hero findOne(int pk) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,23 @@
+package com.revature.hibernate;
+
+import org.junit.*;
+
+public class ModifyTest {
+
+	private Hero toTest;
+	
+	@BeforeClass
+	public void setup(){
+		toTest = new HeroDAOImpl().findOne(50);
+	}
+	
+	@Test
+	public void test(){
+		
+	}
+	
+}
+
+
+
+

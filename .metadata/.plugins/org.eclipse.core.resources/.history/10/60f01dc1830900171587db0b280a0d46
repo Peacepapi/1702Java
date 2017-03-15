@@ -1,0 +1,10 @@
+package com.revature.hibernate;
+
+public class Hero {
+
+	private String name;
+	private int hp;
+	private int mp;
+	private int level;
+	
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="com.revature.hibernate.Hero" table="HERO">
+		<id name="pk" type="int"> <!-- java property name/type -->
+			<column name="HERO_PK" /> <!-- database column -->
+		</id>
+		<property name="name" type="java.lang.String">
+			<column name="HERO_NAME" />
+		</property>
+		<property name="hp" type="int">
+			<column name="HERO_HP" />
+		</property>
+		<property name="mp" type="int">
+			<column name="HERO_MP" />
+		</property>
+		<property name="level" type="int">
+			<column name="HERO_LEVEL" />
+		</property>
+		<property name="created" type="java.util.Date">
+			<column name="DATE_CREATED" />
+		</property>
+	</class>
+</hibernate-mapping>

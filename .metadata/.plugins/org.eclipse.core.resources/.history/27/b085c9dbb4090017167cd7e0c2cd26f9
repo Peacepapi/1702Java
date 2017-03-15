@@ -1,0 +1,89 @@
+package com.revature.hibernate;
+
+import java.util.List;
+
+import org.hibernate.Criteria;
+import org.hibernate.Query;
+import org.hibernate.SQLQuery;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.criterion.Projections;
+import org.hibernate.criterion.Restrictions;
+
+public class HeroDAOImpl implements HeroDAO{
+
+	private SessionFactory sf = HibernateUtils.getSessionFactory();
+	private Session session;
+	
+	public HeroDAOImpl(){
+		session = sf.openSession(); // session per request
+	}
+	
+	public void create(Hero hero) {
+		Transaction tx = session.beginTransaction();
+		try{
+			session.save(hero); 
+			tx.commit();
+		}catch(Exception e){
+			tx.rollback();
+		}
+	}
+
+	public Hero findOne(int pk) {
+		Hero hero = (Hero) session.load(Hero.class, pk); //generate SELECT
+		return hero;
+	}
+
+	public void update(Hero hero) {
+		Transaction tx = session.beginTransaction();
+		session.saveOrUpdate(hero);
+		tx.commit();
+	}
+
+	public void delete(Hero hero) {
+		Transaction tx = session.beginTransaction();
+		session.delete(hero);
+		tx.commit();
+	}
+
+	public Hero findByName(String name) {
+		Query query = session.getNamedQuery("findByName"); // no HQL written here
+		query.setString("param", name);
+		return (Hero) query.uniqueResult(); 
+	}
+
+	@SuppressWarnings("unchecked")
+	public List<Hero> assemble() {
+		// criteria is a builder object
+		// programmatically building query, Restrictions == where clause
+		Criteria criteria = session.createCriteria(Hero.class);
+		return criteria.add(Restrictions.gt("hp", 900))    
+				.add(Restrictions.ge("mp", 700))	
+				.add(Restrictions.between("level", 85, 100))
+				.list();
+	}
+
+	@SuppressWarnings("unchecked")
+	public List<Hero> findHighLevel() {
+		//SQLQuery query = session.createSQLQuery("SELECT * FROM ....")
+		Query query = session.getNamedQuery("findHighLevel");
+		return query.list();
+	}
+
+	/**
+	 * assemble the raid party, 
+	 * then found out who has highest HP from that result set
+	 */
+	public int highestHp() {
+		Criteria criteria = session.createCriteria(Hero.class);
+		return (Integer) criteria.add(Restrictions.gt("hp", 900))    
+				.add(Restrictions.ge("mp", 700))	// WHERE clause
+				.add(Restrictions.between("level", 85, 100))
+				.setProjection(Projections.max("hp")) // aggregate functions
+				.uniqueResult();
+	}
+	
+	
+
+}

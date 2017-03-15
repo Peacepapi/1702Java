@@ -1,0 +1,59 @@
+package com.revature.hibernate;
+
+public class Hero {
+
+	private int pk; // primary key
+	private String name; 
+	private int hp;	//hit points
+	private int mp; // mana points
+	private int level;
+	
+	public int getPk() {
+		return pk;
+	}
+	public void setPk(int pk) {
+		this.pk = pk;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getHp() {
+		return hp;
+	}
+	public void setHp(int hp) {
+		this.hp = hp;
+	}
+	public int getMp() {
+		return mp;
+	}
+	public void setMp(int mp) {
+		this.mp = mp;
+	}
+	public int getLevel() {
+		return level;
+	}
+	public void setLevel(int level) {
+		this.level = level;
+	}
+	public Hero(int pk, String name, int hp, int mp, int level) {
+		super();
+		this.pk = pk;
+		this.name = name;
+		this.hp = hp;
+		this.mp = mp;
+		this.level = level;
+	}
+	public Hero() {
+		super();
+	}
+	@Override
+	public String toString() {
+		return "Hero [pk=" + pk + ", name=" + name + ", hp=" + hp + ", mp=" + mp + ", level=" + level + "]";
+	}
+	
+	
+	
+}

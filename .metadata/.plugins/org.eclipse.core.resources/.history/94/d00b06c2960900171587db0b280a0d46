@@ -1,0 +1,28 @@
+package com.revature.hibernate;
+
+import org.junit.*;
+
+public class ModifyTest {
+
+	private Hero toTest;
+	
+	@BeforeClass
+	public void setup(){
+		toTest = new HeroDAOImpl().findOne(50);
+	}
+	
+	@Test
+	public void test(){
+		System.out.println("Before modification: " + toTest);
+		toTest.setHp(76);
+		new HeroDAOImpl().update(toTest);
+		System.out.println("Updated!");
+		new HeroDAOImpl().delete(toTest);
+		System.out.println("Deleted!");
+	}
+	
+}
+
+
+
+

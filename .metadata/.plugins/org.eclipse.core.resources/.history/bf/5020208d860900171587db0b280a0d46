@@ -1,0 +1,22 @@
+package com.revature.hibernate;
+
+import org.hibernate.SessionFactory;
+
+/**
+ * Set up my Hibernate
+ *
+ */
+public class HibernateUtils {
+
+	// very very heavy weight
+	private static SessionFactory sessionFactory;
+	
+}
+
+
+
+
+
+
+
+

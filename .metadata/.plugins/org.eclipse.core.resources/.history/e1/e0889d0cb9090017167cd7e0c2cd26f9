@@ -1,0 +1,44 @@
+package com.revature.hibernate;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.Id;
+import javax.persistence.OneToOne;
+
+@Entity
+public class Person {
+
+	@Id
+	@Column(name="PERSON_ID")
+	private int id; // never use "id" (or any reserved word) in the DB
+	
+	// 1-1.. foreign key + unique
+	@OneToOne(cascade=CascadeType.REMOVE,
+			fetch=FetchType.EAGER) // lazy by default
+	private Laptop laptop; // 1-1 relationship
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public Laptop getLaptop() {
+		return laptop;
+	}
+
+	public void setLaptop(Laptop laptop) {
+		this.laptop = laptop;
+	}
+	
+	
+}
+
+
+
+
+
