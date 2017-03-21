@@ -1,0 +1,15 @@
+package com.revature.beans;
+
+public class FacadeImpl {
+
+	private DAO dao;
+
+	public void setDao(DAO dao) {
+		this.dao = dao;
+	}
+
+	public void save(String str){
+		dao.save(str); 
+	}
+	
+}

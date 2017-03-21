@@ -1,0 +1,27 @@
+package com.revature.lifecycle;
+
+/**
+ * Spring bean lifecycle management
+ */
+public class ExampleBean {
+
+	private String str;
+
+	public ExampleBean() {
+		super();
+		System.out.println("Instantiate");
+	}
+
+
+
+	public void service(){
+		System.out.println("Service");
+	}
+	
+}
+
+
+
+
+
+

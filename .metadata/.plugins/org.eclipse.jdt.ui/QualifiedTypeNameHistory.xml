@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.revature.patterns.weapons.MachineGun"/>
-<fullyQualifiedTypeName name="com.revature.patterns.Weapon"/>
-<fullyQualifiedTypeName name="com.revature.patterns.weapons.Longsword"/>
-<fullyQualifiedTypeName name="com.revature.patterns.WeaponFactory"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
-<fullyQualifiedTypeName name="com.revature.patterns.weapons.Excalibur"/>
 <fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
 <fullyQualifiedTypeName name="state.User"/>
 <fullyQualifiedTypeName name="javax.servlet.Filter"/>
@@ -42,4 +36,28 @@
 <fullyQualifiedTypeName name="json.JSONConverter"/>
 <fullyQualifiedTypeName name="org.junit.Assert"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.NamedQueries"/>
+<fullyQualifiedTypeName name="javax.persistence.NamedQueries"/>
+<fullyQualifiedTypeName name="javax.persistence.NamedQuery"/>
+<fullyQualifiedTypeName name="javax.persistence.NamedNativeQueries"/>
+<fullyQualifiedTypeName name="javax.persistence.NamedNativeQuery"/>
+<fullyQualifiedTypeName name="org.hibernate.SQLQuery"/>
+<fullyQualifiedTypeName name="com.revature.hibernate.HeroDAOImpl"/>
+<fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+<fullyQualifiedTypeName name="org.hibernate.criterion.Projections"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+<fullyQualifiedTypeName name="com.revature.hibernate.Person"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
+<fullyQualifiedTypeName name="javax.persistence.JoinTable"/>
 </qualifiedTypeNameHistroy>

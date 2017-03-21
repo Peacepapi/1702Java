@@ -1,0 +1,15 @@
+package com.revature.beans;
+
+import org.junit.Test;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class LifecycleTest {
+
+	@Test
+	public void test(){
+		ApplicationContext context = 
+				new ClassPathXmlApplicationContext("lifecycle.xml");
+	}
+	
+}

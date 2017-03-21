@@ -1,0 +1,12 @@
+package com.revature.beans;
+
+import org.junit.Test;
+
+public class SpringTest {
+
+	@Test
+	public void go(){
+		// object of Spring container
+	}
+	
+}

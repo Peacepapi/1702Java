@@ -1,9 +1,0 @@
-package com.revature.automation;
-
-public class Example {
-
-	public static int[] sort() {
-		return new int[5];
-	}
-
-}

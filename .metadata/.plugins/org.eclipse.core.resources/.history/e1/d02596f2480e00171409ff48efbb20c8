@@ -1,0 +1,30 @@
+package com.revature.beans;
+
+import org.junit.Test;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.AbstractApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.revature.lifecycle.ExampleBean;
+
+public class LifecycleTest {
+
+	@Test
+	public void test(){
+		AbstractApplicationContext context = 
+				new ClassPathXmlApplicationContext("lifecycle.xml");
+		System.out.println("Done spinning up Spring container");
+		
+		ExampleBean bean = context.getBean(ExampleBean.class);
+		bean.service();
+		
+		context.registerShutdownHook();
+		System.out.println("Spring container destroyed");
+		
+	}
+	
+}
+
+
+
+

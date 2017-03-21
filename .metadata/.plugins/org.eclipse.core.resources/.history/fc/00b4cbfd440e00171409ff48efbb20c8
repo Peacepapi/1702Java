@@ -1,0 +1,14 @@
+package com.revature.lifecycle;
+
+/**
+ * Spring bean lifecycle management
+ */
+public class ExampleBean {
+
+	
+	
+	public void service(){
+		System.out.println("Service");
+	}
+	
+}

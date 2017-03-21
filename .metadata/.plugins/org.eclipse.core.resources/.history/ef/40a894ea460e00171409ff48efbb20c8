@@ -1,0 +1,44 @@
+package com.revature.lifecycle;
+
+import org.springframework.beans.factory.DisposableBean;
+import org.springframework.beans.factory.InitializingBean;
+
+/**
+ * Spring bean lifecycle management
+ */
+public class ExampleBean implements InitializingBean, DisposableBean{
+
+	private String str;
+
+	public ExampleBean() {
+		super();
+		System.out.println("Instantiate");
+	}
+	public void setStr(String str) {
+		this.str = str; 
+		System.out.println("Populate property: " + str);
+	}
+	public void init(){ // custom init
+		System.out.println("Initialization");
+	}
+	public void service(){
+		System.out.println("Service");
+	}
+	public void destruct(){ //custom destroy
+		System.out.println("Destroy");
+	}
+	public void destroy() throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+	public void afterPropertiesSet() throws Exception {
+		System.out.println("InitializingBean afterPropertiesSet");
+	}
+	
+}
+
+
+
+
+
+

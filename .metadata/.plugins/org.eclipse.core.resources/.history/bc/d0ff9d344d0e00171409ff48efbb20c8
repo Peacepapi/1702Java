@@ -1,0 +1,63 @@
+package com.revature.lifecycle;
+
+import org.springframework.beans.BeansException;
+import org.springframework.beans.factory.BeanNameAware;
+import org.springframework.beans.factory.DisposableBean;
+import org.springframework.beans.factory.InitializingBean;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.ApplicationContextAware;
+
+/**
+ * Spring bean lifecycle management
+ */
+public class ExampleBean implements BeanNameAware,
+									ApplicationContextAware,
+									InitializingBean,
+									DisposableBean{
+
+	private String str;
+	private ApplicationContext context;
+	private String beanName;
+
+	public void setBeanName(String beanName) {
+		this.beanName = beanName;
+		System.out.println("BeanNameAware. injecting beanname " + beanName);
+	}
+	// Spring will inject the applicationContext itself into your bean
+	public void setApplicationContext(ApplicationContext context) throws BeansException {
+		this.context = context;
+		System.out.println("ApplicationContextAware. injecting contxt");
+	}
+	
+	public ExampleBean() {
+		super();
+		System.out.println("Instantiate");
+	}
+	public void setStr(String str) {
+		this.str = str; 
+		System.out.println("Populate property: " + str);
+	}
+	public void init(){ // custom init
+		System.out.println("Initialization");
+	}
+	public void service(){
+		System.out.println("Service");
+	}
+	public void destruct(){ //custom destroy
+		System.out.println("Destroy");
+	}
+	public void destroy() throws Exception {
+		System.out.println("DisposableBean destroy");
+	}
+	public void afterPropertiesSet() throws Exception {
+		System.out.println("InitializingBean afterPropertiesSet");
+	}
+
+	
+}
+
+
+
+
+
+
